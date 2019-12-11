@@ -9,7 +9,7 @@ The goal for this project is to generate visual images that can have particular 
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+- Final_Project_Report.pdf
 
 ## Model/Data
 
@@ -32,23 +32,15 @@ Your code for generating your project:
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+- Result_1.png
+- Result_2.png
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+This code runs on Jupyter Notebook
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+- Brownlee, Jason. How to Develop a CycleGAN for Image-to-Image Translation with Keras,
+Machine Learning Mastery, 8 Aug. 2019, https://machinelearningmastery.com/cyclegan-tutorial-with-keras/.
+
