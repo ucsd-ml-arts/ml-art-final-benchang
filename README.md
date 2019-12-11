@@ -29,8 +29,9 @@ https://drive.google.com/open?id=1vXCQPwxvfSjs6QyWm41LUl-AL25gCQSL
 
 Your code for generating your project:
 
-- Jupyter notebooks: CycleGAN
-        - https://datahub.ucsd.edu/user/bmc011/notebooks/ml-art-final-benchang/Final%20Project.ipynb#
+- Jupyter notebooks 
+    - DeepDream & StyleTransfer (from Project 3): https://datahub.ucsd.edu/user/bmc011/notebooks/generative-visual-benjamin-chang-1/Project_3_Generative_Visual.ipynb
+    - CycleGAN: https://datahub.ucsd.edu/user/bmc011/notebooks/ml-art-final-benchang/Final%20Project.ipynb#
 
 ## Results
 
