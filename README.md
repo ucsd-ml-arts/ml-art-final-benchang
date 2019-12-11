@@ -14,6 +14,8 @@ The goal for this project is to generate visual images that can have particular 
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
+Datasets/Models are too large for Github and can be found in the Google Drive linked below:
+https://drive.google.com/open?id=1vXCQPwxvfSjs6QyWm41LUl-AL25gCQSL
 - trained models
     - g_model_AtoB_######.h5
     - g_model_BtoA_######.h5
