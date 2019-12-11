@@ -39,6 +39,10 @@ Your code for generating your project:
 
 - Result_1.png
 - Result_2.png
+- panther1_final2_final.png
+- panther1_final_final.png
+- panther5_final_final.png
+- panther6_final_final.png
 
 ## Technical Notes
 
