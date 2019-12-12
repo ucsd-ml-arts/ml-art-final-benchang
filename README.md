@@ -41,10 +41,10 @@ Video Results
 - Aquaman Clip
 https://www.youtube.com/watch?v=jwP2OJn-2Cc
 
-- PRocessed Aquman Clip
+- Processed Aquman Clip
 https://www.youtube.com/watch?v=Mt5g_ZIgcpI
 
-Image Results
+Image Results (Less Interesting)
 - Result_1.png
 - Result_2.png
 - panther1_final2_final.png
