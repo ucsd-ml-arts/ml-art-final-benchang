@@ -33,8 +33,8 @@ Your code for generating your project:
 
 - Jupyter notebooks 
     - DeepDream & StyleTransfer (from Project 3): https://datahub.ucsd.edu/user/bmc011/notebooks/generative-visual-benjamin-chang-1/Project_3_Generative_Visual.ipynb
-    - CycleGAN: https://datahub.ucsd.edu/user/bmc011/notebooks/ml-art-final-benchang/Final%20Project.ipynb#
-
+    - CycleGAN: https://datahub.ucsd.edu/user/bmc011/notebooks/ml-art-final-benchang/Final%20Project.ipynb
+    
 ## Results
 
 Video Results
@@ -45,6 +45,7 @@ https://www.youtube.com/watch?v=jwP2OJn-2Cc
 https://www.youtube.com/watch?v=Mt5g_ZIgcpI
 
 Image Results (Less Interesting)
+- Result1.png
 - Result_1.png
 - Result_2.png
 - panther1_final2_final.png
