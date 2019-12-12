@@ -21,6 +21,7 @@ https://drive.google.com/open?id=1vXCQPwxvfSjs6QyWm41LUl-AL25gCQSL
 - trained models
     - g_model_AtoB_######.h5
     - g_model_BtoA_######.h5
+    note: longer-trained models yield less abstract stylized images while short-trained models yield more abstract outputs
 - training data
     - human2animal.zip
 - testing data
